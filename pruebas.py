@@ -5,3 +5,5 @@ edad=int(input("Ingrese su edad mi perro: "))
 
 print (f"Usted se llama", nombre, "y tiene", edad, "años")
 
+print ("HOLA")
+
